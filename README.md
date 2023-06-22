@@ -5,4 +5,4 @@
 - HTML
 - CSS
 - JavaScript
-#### Clique no link para vê a pagina do projeto no navegador (https://alanpedrod.github.io/simulacao-carrinho-de-compras/)
+#### [Teste você mesmo clicando aqui](https://alanpedrod.github.io/simulacao-carrinho-de-compras/)
